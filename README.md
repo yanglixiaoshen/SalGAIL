@@ -1,2 +1,2 @@
 # SalGAIL
-Saliency Prediction on Omnidirectional Image with Generative Adversarial Imitation Learning (TIP 2021)
+Saliency Prediction on Omnidirectional Image with Generative Adversarial Imitation Learning (IEEE TIP 2021)
