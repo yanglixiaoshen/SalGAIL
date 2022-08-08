@@ -34,17 +34,17 @@ Please refer to the following paper and readme.txt with suggested usage.
 
 Note: You must cite our paper in the following BibTex format !!!
 
----------------------------------------------------------------------------------------------------------
-@ARTICLE{9328187,
-  author={M. {Xu} and L. {Yang} and X. {Tao} and Y. {Duan} and Z. {Wang}},
-  journal={IEEE Transactions on Image Processing}, 
-  title={Saliency Prediction on Omnidirectional Image With Generative Adversarial Imitation Learning}, 
-  year={2021},
+```latex
+@article{xu2021saliency,
+  title={Saliency prediction on omnidirectional image with generative adversarial imitation learning},
+  author={Xu, Mai and Yang, Li and Tao, Xiaoming and Duan, Yiping and Wang, Zulin},
+  journal={IEEE Transactions on Image Processing},
   volume={30},
-  number={},
-  pages={2087-2102},
-  doi={10.1109/TIP.2021.3050861}}
---------------------------------------------------------------------------------------------------------- 
+  pages={2087--2102},
+  year={2021},
+  publisher={IEEE}
+}
+```
 
 The final citation format in the reference of your paper should be:
 
